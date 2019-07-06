@@ -1,5 +1,8 @@
 package simulation.cdr.business;
 
+/*
+	Login and password are in clear !! just for test
+*/
 public class LoginChecker {
 	
 	public boolean checkLoginPass(String login, String pass, StringBuffer textLogin, StringBuffer textPass) {
