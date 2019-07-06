@@ -6,6 +6,10 @@ import javafx.stage.Stage;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 
+/*
+	RACHID KABBAB - ENSMR(Ex. ENIM)
+*/
+
 public class Main extends Application {
 	
 	@Override
